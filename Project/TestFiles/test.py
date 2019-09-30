@@ -15,23 +15,19 @@ import requests
 from bs4 import BeautifulSoup
 
 
-class Douban:
-    def __init__(self):
-        self.URL = "https://movie.douban.com/top250"
-        self.startNum = [25*i for i in range(0, 10)]
-        self.header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36"}
+# url = "http://world.people.com.cn/GB/107182/395377/index.html"
 
-    def getTop250(self):
-        for start in self.startNum:
-            html = requests.get(url=self.URL, params={"start": str(start)}, headers=self.header)
-            soup = BeautifulSoup(html.content, "html.parser")
-            movie_name = soup.select("#content > div > div.article > ol > li > div > div.info > div.hd")
-            print(movie_name[0].get_text())
+url = "http://world.people.com.cn/GB/1030/index.html"
 
-    def __del__(self):
-        pass
+html = requests.get(url)
 
+html.encoding = "gbk"
 
-if __name__ == "__main__":
-    cls = Douban()
-    cls.getTop250()
+soup = BeautifulSoup(html.text, "html.parser")
+
+# selector = soup.select("body > div.w1000.d2_content.clearfix > div.d2_left.fl > div > b > a")
+selector = soup.select("body > div.wybj.clearfix > div.content.clearfix > div.c_left.fl > dl > dd > h2 > a")
+
+for t in selector:
+    print(t.get("href"))
+

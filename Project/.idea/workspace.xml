@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5e1b6f4-9bec-4ce2-8420-775fe70496ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DataBaseConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFiles/FirstPeriod/TextCNN_Single_Label.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFiles/FirstPeriod/TextLabelEncoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFiles/FirstPeriod/TrainTestSplit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFiles/FirstPeriod/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFiles/FirstPeriod/word2vec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFiles/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DataBaseConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DataBaseConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFiles/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestFiles/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,25 +16,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1569505568997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestFiles" />
     <SUITE FILE_PATH="coverage/Project$TextLabelEncoder.coverage" NAME="TextLabelEncoder Coverage Results" MODIFIED="1569675199586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstPeriod" />
+    <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1569763148342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestFiles" />
     <SUITE FILE_PATH="coverage/Project$TextCNN_Single_Label__1_.coverage" NAME="TextCNN_Single_Label (1) Coverage Results" MODIFIED="1569679879017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestFiles/FirstPeriod" />
     <SUITE FILE_PATH="coverage/Project$TextCNN_Single_Label.coverage" NAME="TextCNN_Single_Label Coverage Results" MODIFIED="1569676891716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstPeriod" />
-    <SUITE FILE_PATH="coverage/Project$Scratch_RenMinWang.coverage" NAME="Scratch_RenMinWang Coverage Results" MODIFIED="1569642428535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crawl_Scripts" />
+    <SUITE FILE_PATH="coverage/Project$Scratch_RenMinWang.coverage" NAME="Scratch_RenMinWang Coverage Results" MODIFIED="1569840318510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crawl_Scripts" />
     <SUITE FILE_PATH="coverage/Project$TrainTestSplit.coverage" NAME="TrainTestSplit Coverage Results" MODIFIED="1569675090314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstPeriod" />
     <SUITE FILE_PATH="coverage/Project$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1569678672917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstPeriod" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+            <state relative-caret-position="135">
+              <caret line="437" lean-forward="true" selection-start-line="437" selection-end-line="437" />
               <folding>
                 <element signature="e#430#444#0" expanded="true" />
-                <element signature="e#1516#5245#0" />
+                <element signature="e#2005#6106#0" />
+                <element signature="e#2603#6106#0" />
+                <element signature="e#6137#9920#0" />
+                <element signature="e#10944#12146#0" />
+                <element signature="e#11066#14899#0" />
+                <element signature="e#14936#15039#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config/DataBaseConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestFiles/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="605">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <folding>
+                <element signature="e#350#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="81">
+                <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -69,8 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Config/DataBaseConfig.py" />
-        <option value="$PROJECT_DIR$/TestFiles/test.py" />
         <option value="$PROJECT_DIR$/Config/swsw.py" />
         <option value="$PROJECT_DIR$/Config/WebConfig.py" />
         <option value="$PROJECT_DIR$/Config/ScratchWebConfig.py" />
@@ -79,13 +110,16 @@
         <option value="$PROJECT_DIR$/FirstPeriod/TextCNN_Single_Label.py" />
         <option value="$PROJECT_DIR$/FirstPeriod/word2vec.py" />
         <option value="$PROJECT_DIR$/FirstPeriod/readme.md" />
+        <option value="$PROJECT_DIR$/TestFiles/test.py" />
+        <option value="$PROJECT_DIR$/Config/DataBaseConfig.py" />
         <option value="$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="550" />
+    <option name="y" value="9" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -97,22 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Crawl_Scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -144,7 +163,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TextCNN_Single_Label (1)">
+  <component name="RunManager" selected="Python.Scratch_RenMinWang">
+    <configuration name="Scratch_RenMinWang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crawl_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TextCNN_Single_Label (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TextLabelEncoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,34 +238,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FirstPeriod" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FirstPeriod/TextLabelEncoder.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TrainTestSplit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FirstPeriod" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FirstPeriod/TrainTestSplit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestFiles/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Scratch_RenMinWang" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.TextCNN_Single_Label (1)" />
         <item itemvalue="Python.word2vec" />
         <item itemvalue="Python.TextCNN_Single_Label" />
-        <item itemvalue="Python.TextLabelEncoder" />
-        <item itemvalue="Python.TrainTestSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -282,32 +301,35 @@
       <workItem from="1569642094598" duration="1555000" />
       <workItem from="1569646568230" duration="595000" />
       <workItem from="1569658028643" duration="13156000" />
+      <workItem from="1569743914772" duration="15967000" />
+      <workItem from="1569817399829" duration="7606000" />
+      <workItem from="1569831121856" duration="7693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37577000" />
+    <option name="totallyTimeSpent" value="68843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5545657" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45879734" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.5879733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.518931" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.55567926" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.4443207" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32962137" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4844098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -324,13 +346,6 @@
     <entry file="file://$PROJECT_DIR$/Config/swsw.py" />
     <entry file="file://$PROJECT_DIR$/Config/WebConfig.py" />
     <entry file="file://$PROJECT_DIR$/Config/ScratchWebConfig.py" />
-    <entry file="file://$PROJECT_DIR$/Config/DataBaseConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="794">
@@ -338,31 +353,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPeriod/LaLa/sjhx.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="73" lean-forward="true" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFiles/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="e#350#365#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPeriod/LaLa/rhcf.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPeriod/LaLa/word2vec_corpus.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1791" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstPeriod/LaLa/sjhx.txt" />
+    <entry file="file://$PROJECT_DIR$/FirstPeriod/LaLa/rhcf.txt" />
+    <entry file="file://$PROJECT_DIR$/FirstPeriod/LaLa/word2vec_corpus.txt" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/python/framework/ops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -370,55 +363,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/word2vec.py">
+    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/word2vec.py" />
+    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/TextLabelEncoder.py" />
+    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/TrainTestSplit.py" />
+    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/TextCNN_Single_Label.py" />
+    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/readme.md" />
+    <entry file="file://$PROJECT_DIR$/Config/DataBaseConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-          <folding>
-            <element signature="e#377#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/TextLabelEncoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/TrainTestSplit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/TextCNN_Single_Label.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="184" column="23" lean-forward="true" selection-start-line="184" selection-start-column="23" selection-end-line="184" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFiles/FirstPeriod/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="307">
-            <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="621">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Crawl_Scripts/Scratch_RenMinWang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+        <state relative-caret-position="135">
+          <caret line="437" lean-forward="true" selection-start-line="437" selection-end-line="437" />
           <folding>
             <element signature="e#430#444#0" expanded="true" />
-            <element signature="e#1516#5245#0" />
+            <element signature="e#2005#6106#0" />
+            <element signature="e#2603#6106#0" />
+            <element signature="e#6137#9920#0" />
+            <element signature="e#10944#12146#0" />
+            <element signature="e#11066#14899#0" />
+            <element signature="e#14936#15039#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFiles/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#350#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
